@@ -1,0 +1,6 @@
+framework module Pods_ConneAppTask {
+  umbrella header "Pods-ConneAppTask-umbrella.h"
+
+  export *
+  module * { export * }
+}

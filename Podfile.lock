@@ -1,0 +1,68 @@
+PODS:
+  - Alamofire (4.9.1)
+  - HPGradientLoading (1.3.3):
+    - SnapKit (~> 5.0.0)
+    - VisualEffectView (~> 4.0.0)
+  - PromiseKit (6.13.1):
+    - PromiseKit/CorePromise (= 6.13.1)
+    - PromiseKit/Foundation (= 6.13.1)
+    - PromiseKit/UIKit (= 6.13.1)
+  - PromiseKit/CorePromise (6.13.1)
+  - PromiseKit/Foundation (6.13.1):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.13.1):
+    - PromiseKit/CorePromise
+  - R.swift (5.4.0):
+    - R.swift.Library (~> 5.3.0)
+  - R.swift.Library (5.3.0)
+  - ReachabilitySwift (5.0.0)
+  - SDWebImage (5.10.4):
+    - SDWebImage/Core (= 5.10.4)
+  - SDWebImage/Core (5.10.4)
+  - SnapKit (5.0.1)
+  - SwiftMessages (5.0.1):
+    - SwiftMessages/App (= 5.0.1)
+  - SwiftMessages/App (5.0.1)
+  - SwiftyJSON (4.3.0)
+  - VisualEffectView (4.0.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.9.1)
+  - HPGradientLoading
+  - PromiseKit (~> 6.13.1)
+  - R.swift (~> 5.4.0)
+  - ReachabilitySwift
+  - SDWebImage (~> 5.10.4)
+  - SwiftMessages (~> 5.0)
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - HPGradientLoading
+    - PromiseKit
+    - R.swift
+    - R.swift.Library
+    - ReachabilitySwift
+    - SDWebImage
+    - SnapKit
+    - SwiftMessages
+    - SwiftyJSON
+    - VisualEffectView
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  HPGradientLoading: b9e46a196b8caf68bd520de3ae02fcddbf5c3781
+  PromiseKit: 28fda91c973cc377875d8c0ea4f973013c05b6db
+  R.swift: c533450b0f7dc494e0993f5f1a1db925d84c3006
+  R.swift.Library: 0fc583cb55a99e28901299cc451614cad1161962
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  SDWebImage: c666b97e1fa9c64b4909816a903322018f0a9c84
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SwiftMessages: 32ce3cfc8388b41aae56ff4853cc752a20101147
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  VisualEffectView: 8c05bdc77490d84aabfa9fd17b1ffd6476da0e2c
+
+PODFILE CHECKSUM: 1e4bfc6e9d5092483ccd6915c7a3c012c6c2902e
+
+COCOAPODS: 1.11.3
